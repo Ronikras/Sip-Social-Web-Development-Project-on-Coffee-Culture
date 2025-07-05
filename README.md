@@ -29,7 +29,6 @@ The website supports **user roles**:
 ## 🖼️ Screenshots
 
 ### 🏠 Homepage
-<img src="screenshots/homepage.png" alt="Homepage" width="600"/>
 ![Homepage](screenshots/home_page1.png)
 ![Footer](screenshots/footer.png)
 
