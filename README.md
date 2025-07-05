@@ -36,18 +36,24 @@ The website supports **user roles**:
 ![Login](screenshots/login_page.png)
 ![Registration](screenshots/registration.png)
 
-Registration name error
+#### If the form is filled in incorrectly, the form displays an error message and the form cannot be sent to the server.
+
+#### Registration name error
+
 ![Registration name error](screenshots/name.png)
 
-Registration date of birth error
+#### Registration date of birth error
+
 ![Registration date of birth error](screenshots/date.png)
 
-# If any field is filled in incorrectly, the user must re-add the file and fill in the password.
+#### If any field is filled in incorrectly, the user must re-add the file and fill in the password.
 
 ### 👤 Blog page
+
 ![Blog page](screenshots/blog_page.png)
 
-Guest blog page error
+#### Guest blog page error
+
 ![Guest blog page error](screenshots/guest_blog_page.png)
 
 ---
