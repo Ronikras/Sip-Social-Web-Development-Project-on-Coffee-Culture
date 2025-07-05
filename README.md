@@ -42,6 +42,7 @@ Registration name error
 Registration date of birth error
 ![Registration date of birth error](screenshots/date.png)
 
+# If any field is filled in incorrectly, the user must re-add the file and fill in the password.
 
 ### 👤 Blog page
 ![Blog page](screenshots/blog_page.png)
