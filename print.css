@@ -1,0 +1,105 @@
+@media print {
+    header, footer, nav, #back-to-top, .btn, .toggle-article, .scroll-btn {
+        display: none !important;
+    }
+
+    body {
+        background: white !important;
+        line-height: 1.4 !important;
+        font-size: 14px !important;
+        color: black !important;
+    }
+
+    main, section, #about, #history, #values, #user-profile {
+        background-color: white !important;
+        border: none;
+        box-shadow: none;
+        color: black !important;
+    }
+
+    h1, h2, h3, h4, p {
+        color: black !important;
+    }
+
+    .scroll-container img {
+        width: 100px !important;
+        height: auto !important;
+        display: inline-block;
+        object-fit: cover;
+        filter: grayscale(100%);
+    }
+
+    .scroll-container {
+        overflow: visible !important;
+        gap: 5px;
+    }
+
+    .scroll-wrapper {
+        display: block;
+        text-align: center;
+    }
+
+    .full-article {
+        display: block !important;
+        opacity: 1 !important;
+        color: black !important;
+    }
+
+    .excerpt {
+        display: none !important;
+    }
+
+    #user-profile {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        text-align: left;
+        color: black !important;
+    }
+
+    #user-profile h2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+
+    #user-profile .profile img {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin: 10px auto;
+        display: block;
+        filter: grayscale(100%);
+    }
+
+    #user-profile .profile-details p {
+        margin: 5px 0;
+        color: black !important;
+    }
+
+    #logout-btn {
+        display: none !important;
+    }
+
+    ul, ol {
+        margin: 10px 0 10px 20px !important;
+        padding: 0;
+    }
+
+    li {
+        margin-bottom: 5px;
+        color: black !important;
+    }
+
+    .switch-link {
+        display: none !important;
+    }
+
+    .blog-card, .form-group {
+        border: none;
+        box-shadow: none;
+    }
+
+    [data-aos], .hint {
+        display: none !important;
+    }
+}

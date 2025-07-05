@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "username": "Head Admi",
+        "birthday": "2000-03-24",
+        "profile-photo": "uploads\/677d71cf13979_Photo_EN.jpg",
+        "phone": "+420 123 456 789",
+        "email": "admin@a.a",
+        "password": "$2y$10$IMswPzRdRJLi1CfArUi6SOqnwtboQuXGHNTE8HPh.sc8VAXPdNrpq",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "username": "ALLLM REKLT",
+        "birthday": "2008-12-06",
+        "profile-photo": "uploads\/678191faec15d_\u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c.png",
+        "phone": "+420123468493",
+        "email": "w@w.w",
+        "password": "$2y$10$g8y1GZT.Qwo67zgQMV02tejw2yr9zTh8f8cn0DUXzjGn0Jm7QnUlW",
+        "role": "admin"
+    },
+    {
+        "id": 3,
+        "username": "AL Ak",
+        "birthday": "2008-12-19",
+        "profile-photo": "uploads\/678197d7dbdb3_Olen (2).png",
+        "phone": "+420986389217",
+        "email": "q@q.q",
+        "password": "$2y$10$B1gepi8wY7eLCokYgTEf6Oz6OB5XhS6dI20vIDwVnp9e7AQApCZ.m",
+        "role": "admin"
+    },
+    {
+        "id": 4,
+        "username": "SSD DLF",
+        "birthday": "2008-12-14",
+        "profile-photo": "uploads\/6781989a5b318_Photo_EN.jpg",
+        "phone": "+420987654324",
+        "email": "e@e.e",
+        "password": "$2y$10$e4DbrwbzzevyOPQbElT1f.KZtiMuQcLyXduZPfBKLgWFmnhntnZKu",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "username": "Kaktusmberikatus",
+        "birthday": "2008-12-12",
+        "profile-photo": "uploads\/6782d6d69e1ef_The Toothbold \u2013 Tiny undead, neutral.jpg",
+        "phone": "+420773214500",
+        "email": "ds@cvut.com",
+        "password": "$2y$10$ZZO6uRQr1OXE3ZQ3bJxLE.RXIs7AUl\/h3iBDLiERlpyZDRoPmx8wu",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "username": "Dasa Lu",
+        "birthday": "2008-12-17",
+        "profile-photo": "uploads\/6782d78d92636_The Chiminimera \u2013 Tiny monstrosity, chaotic evil.jpg",
+        "phone": "+420773214500",
+        "email": "ddasa5100@gmail.com",
+        "password": "$2y$10$7zpzPSlo65qtODVirZwFRu1zsdOZRYcGF\/LUx8Q\/YtoYHdCX1ZYWi",
+        "role": "admin"
+    },
+    {
+        "id": 7,
+        "username": "t s",
+        "birthday": "2008-12-10",
+        "profile-photo": "uploads\/6782dfe46664a_internet-bedroom.jpg",
+        "phone": "+420604567997",
+        "email": "maeb@gmail.co",
+        "password": "$2y$10$t35DQaYD0R7sB4X2OcQiEuPIznf\/qIS3RaCO733usBkvS70dJW\/Aq",
+        "role": "user"
+    },
+    {
+        "id": 8,
+        "username": "Majdalenka cusik",
+        "birthday": "2008-12-02",
+        "profile-photo": "uploads\/6782e091c5dce_internet-bedroom.jpg",
+        "phone": "+420604567911",
+        "email": "lebedmaggg@cvut.cz",
+        "password": "$2y$10$avSljx5PiGt.gP\/ds.4tWuZZhix5F9T1RFa.8l9RDOY.ukkfPEgL.",
+        "role": "user"
+    },
+    {
+        "id": 9,
+        "username": "e e",
+        "birthday": "2003-04-04",
+        "profile-photo": "uploads\/6782e0f5e94cc_Unknown artist.jpg",
+        "phone": "+420128394054",
+        "email": "w@w.c",
+        "password": "$2y$10$6dYiPyCXbbDRz\/\/9.ScOsONV9W6ZEXLtv7xAuuD9LH2AOmDHjou3O",
+        "role": "user"
+    },
+    {
+        "id": 10,
+        "username": "s s",
+        "birthday": "2004-01-24",
+        "profile-photo": "uploads\/6782e9221f06e_IMG_0756.jpeg",
+        "phone": "+420158497358",
+        "email": "s@s.s",
+        "password": "$2y$10$HV.RVzfQn0jP8UW.1OkDlO.HuTY9OvaWNpu98KZxMdkR237yaZWsm",
+        "role": "user"
+    },
+    {
+        "id": 11,
+        "username": "dd dd",
+        "birthday": "1945-11-11",
+        "profile-photo": "uploads\/6782ea2d9b489_06620380.jpg",
+        "phone": "+420654765488",
+        "email": "jjL112@gmail.com",
+        "password": "$2y$10$qWWZRf0hu83v3MGKIr9sje9lpOlsRbQ7a1dqidMrEWS3DU9b2cB6S",
+        "role": "user"
+    },
+    {
+        "id": 12,
+        "username": "Karel Novak",
+        "birthday": "2008-12-28",
+        "profile-photo": "uploads\/6782ed0bd6bff_medovnik.jpg",
+        "phone": "+420123456789",
+        "email": "",
+        "password": "$2y$10$mbajRNEXgWVlNs797A4szei0xdR7ErKrFGOShPiohzEPaODYfW.mC",
+        "role": "user"
+    },
+    {
+        "id": 13,
+        "username": "w e",
+        "birthday": "1945-12-23",
+        "profile-photo": "uploads\/6782f542d2a77_Photo_EN.jpg",
+        "phone": "+420382012834",
+        "email": "w@e.c",
+        "password": "QAZwsx123!",
+        "role": "user"
+    },
+    {
+        "id": 14,
+        "username": "e w",
+        "birthday": "2000-03-12",
+        "profile-photo": "uploads\/6782f92849a36_Photo_EN.jpg",
+        "phone": "+420332982722",
+        "email": "w2@wq.c",
+        "password": "QAZwsx123!",
+        "role": "user"
+    },
+    {
+        "id": 15,
+        "username": "<h1>test<\/h1>",
+        "birthday": "2000-03-12",
+        "profile-photo": "uploads\/6782f92849a36_Photo_EN.jpg",
+        "phone": "+420332982722",
+        "email": "w2@wq.c",
+        "password": "QAZwsx123!",
+        "role": "admin"
+    }
+]
