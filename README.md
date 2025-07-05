@@ -26,6 +26,25 @@ The website supports **user roles**:
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/home_page1.png)
+![Footer](screenshots/footer.png)
+
+### 🔐 Login & Registration
+![Login](screenshots/login_page.png)
+![Registration](screenshots/registration.png)
+![Registration name error](screenshots/name.png)
+![Registration date of birth error](screenshots/date.png)
+
+
+### 👤 Blog page
+![Blog page](screenshots/blog_page.png)
+![Guest blog page error](screenshots/guest_blog_page.png)
+
+---
+
 ## 🔐 User Roles & Permissions
 
 | Role           | Permissions                                                                 |
