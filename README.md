@@ -48,13 +48,20 @@ The website supports **user roles**:
 
 #### If any field is filled in incorrectly, the user must re-add the file and fill in the password.
 
-### 👤 Blog page
+### 🖼️ Blog page
 
 ![Blog page](screenshots/blog_page.png)
 
 #### Guest blog page error
 
 ![Guest blog page error](screenshots/guest_blog_page.png)
+
+### 👤 User Profile
+![Profile](screenshots/profile.png)
+
+### 🛠️ Admin Panel
+![Admin](screenshots/admin_panel.png)
+
 
 ---
 
