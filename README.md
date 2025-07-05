@@ -35,12 +35,18 @@ The website supports **user roles**:
 ### 🔐 Login & Registration
 ![Login](screenshots/login_page.png)
 ![Registration](screenshots/registration.png)
+
+Registration name error
 ![Registration name error](screenshots/name.png)
+
+Registration date of birth error
 ![Registration date of birth error](screenshots/date.png)
 
 
 ### 👤 Blog page
 ![Blog page](screenshots/blog_page.png)
+
+Guest blog page error
 ![Guest blog page error](screenshots/guest_blog_page.png)
 
 ---
